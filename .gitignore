@@ -1,0 +1,6 @@
+lib
+dist
+build
+custom-ant.properties
+javadoc
+release
